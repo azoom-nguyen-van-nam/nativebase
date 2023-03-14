@@ -4,6 +4,11 @@
     "slug": "nativebase",
     "version": "1.0.0",
     "assetBundlePatterns": ["**/*"],
+    "extra": {
+      "app": {
+        "BASE_API_URL": ""
+      }
+    },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/favicon.png",

@@ -12,7 +12,9 @@ module.exports = function (api) {
             '~helpers': './app/helpers',
             '~screens': './app/screens',
             '~navigation': './app/navigation',
-            '~plugins': './app/plugins'
+            '~plugins': './app/plugins',
+            '~store': './app/store',
+            '~services': './app/services'
           }
         }
       ]

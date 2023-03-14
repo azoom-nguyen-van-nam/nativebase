@@ -1,5 +1,5 @@
 import React from 'react'
-import { Box, Button, Center, useTheme } from 'native-base'
+import { Box, Button, Center, useTheme, Text } from 'native-base'
 
 export default ({ navigation }) => {
   const theme = useTheme()

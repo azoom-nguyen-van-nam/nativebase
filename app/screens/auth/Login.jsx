@@ -1,6 +1,6 @@
 import React from 'react'
 import { View } from 'react-native'
-import { Screen } from '~components/overrided'
+import { Screen } from '~components/base'
 
 export default ({ navigation }) => {
   React.useLayoutEffect(() => {
